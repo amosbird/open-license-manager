@@ -7,5 +7,3 @@ ADD_LIBRARY(base STATIC
 )
 
 add_dependencies( base public_key )
-
-install(TARGETS base ARCHIVE DESTINATION lib)

@@ -14,5 +14,3 @@ target_link_libraries(
      base
      ${EXTERNAL_LIBS}
 )
-
-install(TARGETS os ARCHIVE DESTINATION lib)

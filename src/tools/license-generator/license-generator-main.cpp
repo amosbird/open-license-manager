@@ -2,7 +2,7 @@
 #include "license-generator.h"
 
 int main(int argc, const char *argv[]) {
-	 return license::LicenseGenerator::generateLicense(argc, argv);
+	return license::LicenseGenerator::generateLicense(argc, argv);
 
 }
 
